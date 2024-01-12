@@ -3,7 +3,7 @@ import SliderBar from './SliderBar';
 
 export default function Strategy() {
 
-
+// Slider bar
 
   return (
     <div>
